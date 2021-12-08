@@ -22,16 +22,16 @@ twitter: ''
 
 email: rodriguarmando@gmail.com
 phone: 475 441 4263
-address:
-  street: 1 Earl Ave Ext
-  city: Hamden
-  region: CT
-  postcode: '06514'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '41.387'
-  longitude: '-72.927854'
+#address:
+#  street: 1 Earl Ave Ext
+#  city: Hamden
+#  region: CT
+#  postcode: '06514'
+#  country: United States
+#  country_code: US
+#coordinates:
+#  latitude: '41.387'
+#  longitude: '-72.927854'
 
 # Site header
 
