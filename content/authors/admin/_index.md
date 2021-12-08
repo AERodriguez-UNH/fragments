@@ -66,13 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-A.E. Rodriguez is Professor and Chair of the Department of Economics and Business Analytics in the Pompea College of Business of the University of New Haven.  He works on the the application of unsupervised machine learning methods, bayesian nets, and business forecasting to improve business practices, efficiencies and profitability.  
-
-Dr. Rodriguez is a former senior manager with KPMG’s Economic Consulting Services, and PricewaterhouseCooper’s Financial Advisory Service; he also served as an economist with the US Federal Trade Commission’s Bureau of Economics and served as an antitrust advisor to the office of the former Attorney General of the State of Connecticut, Richard Blumenthal.  
-
-Dr. Rodriguez was a member of the US team who negotiated the competition policy chapter of NAFTA.  Throughout his career he has served as a competition policy advisor to various governments including those of Indonesia, Ethiopia, Mozambique, Egypt, El Salvador, Peru, Mexico, and Venezuela.   As an independent expert he has provided testimony, advice, empirical studies and economic analysis in support of litigation in various Federal, State and international courts of law on behalf of clients.  
-
-Dr. Rodriguez has published numerous articles in refereed journals, law reviews and periodicals and has lectured widely on competition policy, regulation and empirical methods. 
+I am Professor and Chair of the Department of Economics and Business Analytics in the Pompea College of Business of the University of New Haven.  I work on furthering the application of unsupervised machine learning methods, bayesian nets, and business forecasting to improve business practices, efficiency, and profitability.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
